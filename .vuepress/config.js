@@ -10,7 +10,17 @@ module.exports = {
       '/',
       '/main',
       '/login',
-      '/dashboard'
+      '/dashboard',
+      '/solicitacoes',
+      '/usuarios',
+      '/cadastro-geral',
+      '/atividades',
+      '/colaboradores',
+      '/escolas',
+      '/assistidos',
+      '/nucleos',
+      '/projetos',
+      '/minha-conta'
     ]
   }
 }

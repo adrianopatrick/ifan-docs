@@ -1,7 +1,6 @@
 ---
 home: true
 description: Bem vindo manual do usuário.
-heroImage: /assets/img/ifanlogo.1c0607de.png
 actionText: Começar →
 actionLink: /main.md
 features:
