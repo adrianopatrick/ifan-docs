@@ -12,13 +12,9 @@ Na tela acima é possível listar os assistidos já cadastrados, bem como filtr�
 
 ### Inclusão
  No botão Novo é possível incluir um novo assistido, como vemos abaixo:
-![incluir](./img/assistidos/cadastrar.png)
-
-### Detalhar
-Ao clicar sobre um assistido na tela de listagem, você é redirecionado para a tela de detalhar
-![detalhar](./img/assistidos/detalhar.png)
+![incluir](./img/assistidos/cadastro.png)
 
 ### Alterar
 Além de ser possível atualizar, como vemos abaixo:
-![alterar](./img/assistidos/alterar.png)
-Como podemos ver na opção acima, também é possível excluir uma escola, esta operação é inrreversível, então deve-se ter o máximo cuidado.
+![alterar](./img/assistidos/atualizar.png)
+Como podemos ver na opção acima, também é possível excluir um assistido, esta operação é inrreversível, então deve-se ter o máximo cuidado.

@@ -9,4 +9,6 @@ A plataforma, como podemos ver abaixo, foi criada com grande preocupação na se
 
 ![Login](./img/login/login1.png) 
 
+Também possui o mecanismo do google reCatpcha que impede ataques a de qualquer página da aplicação.
+
 > © iSystem Solution - 2018
