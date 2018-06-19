@@ -21,4 +21,4 @@ Ao clicar sobre a escola na tela de listagem, você é redirecionado para a tela
 ### Alterar
 Além de ser possível atualizar, como vemos abaixo:
 ![alterar](./img/escolas/alterar.png)
-Como podemos ver na opção acima, também é possível excluir uma escola.
+Como podemos ver na opção acima, também é possível excluir uma escola, esta operação é inrreversível, então deve-se ter o máximo cuidado.
