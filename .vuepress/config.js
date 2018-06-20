@@ -20,7 +20,8 @@ module.exports = {
       '/assistidos',
       '/nucleos',
       '/projetos',
-      '/minha-conta'
+      '/minha-conta',
+      '/duvidas'
     ]
   }
 }
