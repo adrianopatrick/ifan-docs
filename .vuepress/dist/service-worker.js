@@ -11,7 +11,7 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.1.0/workbox-sw.js");
+importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.3.0/workbox-sw.js");
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
@@ -21,11 +21,11 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.1.0/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "d8011e783e5b450589f5921aa6ab0d21"
+    "revision": "940be2db6bd2323d16a8f65a9a3c7386"
   },
   {
-    "url": "assets/css/14.styles.069008a2.css",
-    "revision": "f6a8a025fbad004e2eae71de71a745da"
+    "url": "assets/css/15.styles.7953215a.css",
+    "revision": "0e5d7a5a0801a0b2375378ee5efcdc32"
   },
   {
     "url": "assets/img/alterar.73e3ce19.png",
@@ -204,120 +204,128 @@ self.__precacheManifest = [
     "revision": "8cdbde6a53b25221b5b94f75626af483"
   },
   {
-    "url": "assets/js/0.472114f5.js",
-    "revision": "56d9e446ce1ed4541fe43711a237cc07"
+    "url": "assets/js/0.081658a8.js",
+    "revision": "ed6a6b07e4abd4c3cfb8a03786ff929e"
   },
   {
-    "url": "assets/js/1.b57509d9.js",
-    "revision": "56dde54d5929d738fde5c26d496a46b7"
+    "url": "assets/js/1.4b1650dd.js",
+    "revision": "66f10c6ef8d6eb8b237901f7751fa9ee"
   },
   {
-    "url": "assets/js/10.3d5225d9.js",
-    "revision": "6c091fd7f0c88ced73fb3a7f7ebf81f0"
+    "url": "assets/js/10.c8eb0a0c.js",
+    "revision": "3e61a481c4d0f451ffe67c6539f37ee7"
   },
   {
-    "url": "assets/js/11.c297414b.js",
-    "revision": "5914314a43c4e1c228a38f9da95e79c0"
+    "url": "assets/js/11.a6cefc8a.js",
+    "revision": "fe8f462eb9763823ff60667aca3bd55c"
   },
   {
-    "url": "assets/js/12.6192c058.js",
-    "revision": "247c6c917c6ece94b308407a6b91ea46"
+    "url": "assets/js/12.ef504617.js",
+    "revision": "d8d99234a7a552eaafbbec7cf7aa9413"
   },
   {
-    "url": "assets/js/13.72a21177.js",
-    "revision": "be30aee9259d8e4885a4a3bf8ada9f3b"
+    "url": "assets/js/13.c7a139be.js",
+    "revision": "07610018fd5429143125cbf423a5184e"
   },
   {
-    "url": "assets/js/2.493a8f1c.js",
-    "revision": "e25edeb942d2a44c995b9d5e3be32ceb"
+    "url": "assets/js/14.e3ff74aa.js",
+    "revision": "4ff617cc5dc6f6f45320b0a06eea32e0"
   },
   {
-    "url": "assets/js/3.2d771cb0.js",
-    "revision": "9c91b4d8190f1de73907b4d2e22ac09c"
+    "url": "assets/js/2.2bc5d15a.js",
+    "revision": "47e71d95c28a57afeb55d1505975d7ca"
   },
   {
-    "url": "assets/js/4.a078a99c.js",
-    "revision": "fb6fa926b0844b57dd1c2ac3232e81b0"
+    "url": "assets/js/3.abfadb5c.js",
+    "revision": "b2d0c12863e44eb7a59ffd18ab0cb4f5"
   },
   {
-    "url": "assets/js/5.c89da1b0.js",
-    "revision": "68a4b9904a65a06a32e07cd9f9f66201"
+    "url": "assets/js/4.cd279a59.js",
+    "revision": "a9f959251f1f60e2de00eeef17bbbdb0"
   },
   {
-    "url": "assets/js/6.36746709.js",
-    "revision": "30abed96496ffca39cb22d52534c85d6"
+    "url": "assets/js/5.f25a898f.js",
+    "revision": "e7c4f550ebdf60bf4c504813e5b0b80d"
   },
   {
-    "url": "assets/js/7.3c3193ae.js",
-    "revision": "19eeb9bcf72308e1a32cd3cdfd364ea2"
+    "url": "assets/js/6.0cec978c.js",
+    "revision": "0be8b2df5677a653f0b9d8d0ec48d6e9"
   },
   {
-    "url": "assets/js/8.1fb06db7.js",
-    "revision": "e08ec4dc25e9d661006b03ececcf6c2d"
+    "url": "assets/js/7.c28d0215.js",
+    "revision": "a754d683157e046c3e9104ac5ea521a6"
   },
   {
-    "url": "assets/js/9.e9801d9a.js",
-    "revision": "bcb8c75a1cf39f0d4ec42fbee029dea0"
+    "url": "assets/js/8.90852381.js",
+    "revision": "3bbfc96eabe04a1f00618a28ef85aabc"
   },
   {
-    "url": "assets/js/app.26783805.js",
-    "revision": "418001c7def251d845416bb0328db5c2"
+    "url": "assets/js/9.b65aea0a.js",
+    "revision": "fd7dcb830bc2be77b2941efdfad58f19"
+  },
+  {
+    "url": "assets/js/app.94985376.js",
+    "revision": "6d0d016ddfa00ba6d8801d2b0e29487a"
   },
   {
     "url": "assistidos.html",
-    "revision": "b5e5cbed92ade9a1549389165b490c04"
+    "revision": "a9575e35f8fcd993c6fee682eb71d934"
   },
   {
     "url": "atividades.html",
-    "revision": "0ff64fa370ff5d4541cc4b7cddd7ade0"
+    "revision": "b80618fe506399b9b24027813b084e5f"
   },
   {
     "url": "cadastro-geral.html",
-    "revision": "53bb5a706899d0383c05e9a0b6c052b3"
+    "revision": "2f633c27d785b31573936b1f8426696d"
   },
   {
     "url": "colaboradores.html",
-    "revision": "324e65a948771deeca6c01d8e5a73654"
+    "revision": "36fc7cb3e09c62f887748519cdfdec35"
   },
   {
     "url": "dashboard.html",
-    "revision": "bea14b64bc8c19c1f4a5a51809f8ecfe"
+    "revision": "4d203097aaabb18c23ab49ecc617c58c"
+  },
+  {
+    "url": "duvidas.html",
+    "revision": "95ad38464a79dae85c1e2d2a21812421"
   },
   {
     "url": "escolas.html",
-    "revision": "d283edc2ad1909af84d94d25cd941702"
+    "revision": "0b19f365196973499fedee19c7548a45"
   },
   {
     "url": "index.html",
-    "revision": "1bd7b795d859da39408ead9406b57953"
+    "revision": "a0ac0c9a2ef4c68fd44512732441eba9"
   },
   {
     "url": "login.html",
-    "revision": "c1ac90dfaa94bc75d86995079133d913"
+    "revision": "355ac7e3e274e19260ea9c2c341ef943"
   },
   {
     "url": "main.html",
-    "revision": "129c18bfccd7ac00de87229d1a0b6392"
+    "revision": "777e545e475456e626f195048ce48429"
   },
   {
     "url": "minha-conta.html",
-    "revision": "69c94bd4771682bd01ebf5ad19ca78ce"
+    "revision": "48e407113612366cb8756194399506ac"
   },
   {
     "url": "nucleos.html",
-    "revision": "dbee28c4c295a70a5cafacefcee965bf"
+    "revision": "4569e7f64e283a922cef6ec697fda13b"
   },
   {
     "url": "projetos.html",
-    "revision": "b6dee6678c974928c3df4fae9495de64"
+    "revision": "18a13c260ec7df0f948c1c023115c93a"
   },
   {
     "url": "solicitacoes.html",
-    "revision": "fa695959d499bc857c94d8f95fe5e8c2"
+    "revision": "7206b97f1a975c5b00071cfa4a9c8f41"
   },
   {
     "url": "usuarios.html",
-    "revision": "d7ab6f9e580965c5c6d35bc5e6585b78"
+    "revision": "3ee687db5b784e42bde992cbdec18f23"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
